@@ -1,0 +1,21 @@
+# Core UI & App
+streamlit
+streamlit-webrtc
+
+# Audio & Media Processing
+numpy
+soundfile
+av
+ffmpeg-python
+
+# Speech-to-text
+openai-whisper
+
+# Additional NLP or AI libraries (used in your own scripts like ollama_nlp.py)
+ollama
+
+# Ensure compatibility with temp file handling (standard library modules like tempfile don't need to be listed)
+
+# OPTIONAL: Add only if your other scripts like aptitude.py, feedback.py use them:
+# transformers
+# pandas
